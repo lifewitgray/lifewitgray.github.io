@@ -1,0 +1,2 @@
+# Cubey
+Cube collecting game
